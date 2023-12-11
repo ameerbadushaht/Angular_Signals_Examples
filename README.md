@@ -1,12 +1,13 @@
 # SignalTt
 
-![Screenshot (51)](https://github.com/ameerbadushaht/Signals_Counter/assets/84665215/1e2f6250-ac65-4258-b6d6-f994c0b19a16)
+![Screenshot (51)](https://github.com/ameerbadushaht/Signals_Counter/assets/84665215/57184cff-1036-4494-a573-26ce5d24d8e7)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.8.
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+
 
 
 ## Code scaffolding
